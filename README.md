@@ -1,4 +1,7 @@
-# NBA Win Predictor
+
+'# NBA Win Predictor
+
+**live demo:** [try it here](https://nba-win-predictor-xyz123.streamlit.app/)
 
 this is a little app where you pick 2 nba teams and it tells you the % chance the home team wins. also shows the stats it used to decide.
 
