@@ -1,5 +1,5 @@
 
-' NBA Win Predictor
+NBA Win Predictor
 
 **live demo:** [try it here](https://nba-win-predictor-xyz123.streamlit.app/)
 
